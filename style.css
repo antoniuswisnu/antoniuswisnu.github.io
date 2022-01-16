@@ -1,0 +1,28 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2f1ff;
+}
+
+#projects {
+  background-color: #e2f1ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.btn {
+  background: white;
+  border: 1px solid black;
+}
+
+.btn:hover {
+  color: white;
+  border: 1px solid white;
+  background: blue;
+  box-shadow: 0 0 5px blue, 0 0 25px blue, 0 0 50px blue, 0 0 200px blue;
+}
